@@ -1,0 +1,22 @@
+{
+  "name": "react-native-file-preview",
+  "version": "1.0.0",
+  "description": "A react native library to preview document files",
+  "files": [
+    "/ios",
+    "/android",
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}

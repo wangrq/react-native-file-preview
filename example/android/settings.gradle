@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':react-native-file-preview'
+project(':react-native-file-preview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-file-preview/android')
+
+include ':app'
