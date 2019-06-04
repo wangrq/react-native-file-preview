@@ -19,10 +19,10 @@ react-native-file-preview is a simple library to preview files. It's written in 
 <table>
   <tr>
     <th>
-      <img src="example/Media/iPhone.gif"/>
+      <img src="https://github.com/wangrq/react-native-file-preview/raw/master/example/Media/iPhone.gif"/>
     </th>
     <th>
-      <img src="example/Media/iPad.gif"/>
+      <img src="https://github.com/wangrq/react-native-file-preview/raw/master/example/Media/iPad.gif"/>
     </th>
   </tr>
 </table>
@@ -60,7 +60,7 @@ After the link you'll need two extra steps to make it working. It's simple to co
 
 
 
-<img src="example/Media/install_step_1.jpg"/>
+<img src="https://github.com/wangrq/react-native-file-preview/raw/master/example/Media/install_step_1.jpg"/>
 
 
 
@@ -72,7 +72,7 @@ After the link you'll need two extra steps to make it working. It's simple to co
 
 
 
-<img src="example/Media/install_step_2.jpg"/>
+<img src="https://github.com/wangrq/react-native-file-preview/raw/master/example/Media/install_step_2.jpg"/>
 
 
 
