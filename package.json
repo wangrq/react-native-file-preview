@@ -1,6 +1,6 @@
 {
   "name": "react-native-file-preview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react native library to preview document files",
   "files": [
     "/ios",
@@ -12,10 +12,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "file",
+    "preview",
+    "document",
+    "viewer"
   ],
-  "author": "",
-  "license": "",
+  "author": "Renquan Wang <wangrqt196@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/wangrq/react-native-file-preview",
+  "repository": "github:wangrq/react-native-file-preview",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
